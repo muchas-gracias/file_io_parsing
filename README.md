@@ -13,4 +13,4 @@
 | Task                          |              Sample |               Link|
 | ----------------------------- | ------------------- |-------------------|
 | put each line of the file in a list     |           50, 20, 10, 60, 80          |[<u>EXAMPLE</u>](python_files/parsing1.py)  |
-| put each line number in the list     |           50, 20, 10, 60, 80          |[<u>EXAMPLE</u>](python_files/parsing2.py)  |
+| put each number in the list     |           50, 20, 10, 60, 80          |[<u>EXAMPLE</u>](python_files/parsing2.py)  |
